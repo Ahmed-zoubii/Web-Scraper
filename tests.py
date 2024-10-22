@@ -4,7 +4,7 @@ import random
 import re
 import shutil
 import string
-
+from string import ascii_lowercase
 import requests
 from bs4 import BeautifulSoup
 from furl import furl
